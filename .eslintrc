@@ -1,0 +1,17 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["@typescript-eslint", "no-loops"],
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "eslint-config-prettier"
+    ],
+    "rules": {
+        "no-console": 0,
+        "no-loops/no-loops": 2,
+        "no-var": 2,
+        "no-unused-vars": 1
+    }
+}
