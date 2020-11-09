@@ -66,4 +66,4 @@ ______
 
 ### Creators
 
-<a href="https://ibb.co/PTJYbjZ"><img src="https://i.ibb.co/k3zyrBg/Github.png" alt="Github" border="0" width = "1500"></a>
+<img src="creators.png" alt="Github" border="0" width = "1500">
